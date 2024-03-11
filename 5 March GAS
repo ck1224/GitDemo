@@ -1,0 +1,14 @@
+-signed apk of calc app
+-ask for test suite
+-sync aosp again and build it and launch a emulator from terminal
+
+
+
+
+
+
+
+-display output in result fragement from json file
+(made change in Resultfragment.java for json file)
+1.add path of json file in that emualator
+
